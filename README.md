@@ -15,14 +15,13 @@ class Tono():
   def about_me() -> dict:
       return {
           "name": "tono",
-          "age": "21",
+          "age": "22",
           "studying": "computer science and mathematics",
-          "ask me about": ["data science", 
-                          "nlp", "ml", 
+          "ask me about": ["data science", "DESIGN PATTERNS! ❤️", "NLP"
                           "illustration", "animation", 
                           "game design", "language learning"],
           "favorite languages": ["python", "java", "C++"],
-          "currently learning": ["kotlin", "rust", "godot"],
+          "currently learning": ["TO LOVE MYSELF!"],
           "hobbies": ["coding", "cooking", 
                       "illustrating", "animating", 
                       "learning Japanese!", "日本語で話す！"],
