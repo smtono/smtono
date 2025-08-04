@@ -9,7 +9,7 @@ class Tono():
   def about_me() -> dict:
       return {
           "name": "tono",
-          "age": "23",
+          "age": "24",
           "studying": "computer science and mathematics",
           "ask me about": ["data science", "DESIGN PATTERNS! ❤️", "NLP"
                           "illustration", "animation", 
