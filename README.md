@@ -12,7 +12,7 @@
 <br/>
 
 <br/>
-<i>🌸 behind in joy, ahead in truth 🌸</i>
+🌸 <i>behind in joy, ahead in truth</i> 🌸
 <br/>
 
 </div>
