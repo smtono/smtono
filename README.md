@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/focus-artistic%20tech-ffd6a5?style=for-the-badge" />
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=smtono&theme=omni&hide_border=true&background=00000000&ring=f4a9c8&fire=f8c8dc&currStreakLabel=f4a9c8" height="165" />
+<br/>
+<i>🌸 behind in joy, ahead in truth 🌸</i>
+<br/>
 
 </div>
 
